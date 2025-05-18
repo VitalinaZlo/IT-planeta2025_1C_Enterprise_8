@@ -1,6 +1,6 @@
 # Обработка по чтению Excel
 
-![License](https://img.shields.io/github/license/VitalinaZlo/IT-planeta2025_1C_Enterprise_8?style=flat-square&color=e5573e&label=License)
+![License](https://img.shields.io/github/license/VitalinaZlo/IT-planeta2025_1C_Enterprise_8?style=flat-square&label=License&color=e5573e)
 ![Status](https://img.shields.io/badge/build-completed-green?style=flat-square&label=Status&color=3dc322)
 
 **Excel Reading Processing** — это проект, предназначенный для чтения данных из файлов `.xls`, `.xlsx` и их обработки в 1С:Предприятии.
